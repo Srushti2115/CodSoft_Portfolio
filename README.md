@@ -22,7 +22,6 @@ This portfolio website highlights:
 ## Technologies Used
 - **HTML**
 - **CSS**
-- **JavaScript**
 
 ---
 
@@ -39,3 +38,12 @@ This portfolio website highlights:
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/portfolio-website.git
+
+2. Navigate to the project folder:
+   ```bash
+   cd portfolio-website
+   
+3. Open index.html in a browser:
+   ```bash
+   open index.html  # macOS
+   start index.html # Windows
